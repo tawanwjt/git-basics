@@ -1,3 +1,3 @@
-# Git Basics --> !!! Edited Now !!!
+# Git Basics --> Now Edited!!!
 # Hello World!
 TAWAN !!
