@@ -4,3 +4,4 @@ TAWAN !!
 --Edit text=--
 <br> "This text is in main branch" -> Already edited !
 <br> "This text is in main branch, too"
+<br> "This text is in feature6 branch"
